@@ -12,7 +12,7 @@
 
 ## Результаты
 
-1. https://github.com/DElena90/Java2-2/issues/1
+1. Неверно высчитывается сумма имеющегося и дополнительного бонусов - https://github.com/DElena90/Java2-2/issues/1
 
 ## Общие рекомендации
 
